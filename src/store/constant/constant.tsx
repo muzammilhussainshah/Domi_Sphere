@@ -1,0 +1,7 @@
+
+// export const CURRENTUSERPROFILE = 'CURRENTUSERPROFILE';
+// export const ISUSERLOGIN = 'ISUSERLOGIN';
+export const SPLASHSTATUSBAR = 'SPLASHSTATUSBAR';
+// export const OTPSUPPORTED = 'OTPSUPPORTED';
+// export const ISERROR = 'ISERROR';
+// export const LOADER = 'LOADER';
