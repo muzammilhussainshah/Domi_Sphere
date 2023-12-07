@@ -22,7 +22,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // Ignore warnings
 LogBox.ignoreLogs(['Non-serializable values were found in the navigation state']);
 LogBox.ignoreAllLogs();
-
+ 
 const MainComponent: React.FC = () => {
 
   const [authState, setAuthState] = useState<any>(true)
